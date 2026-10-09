@@ -1,1 +1,1 @@
-# omr
+# just build things
